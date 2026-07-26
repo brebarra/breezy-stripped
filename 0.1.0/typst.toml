@@ -1,0 +1,19 @@
+[package]
+name = "breezy-stripped"
+version = "0.1.0"
+entrypoint = "template.typ"
+authors = ["Breanna Barraclough <https://github.com/brebarra>"]
+license = "MIT"
+description = "Stripped-down version of the Breezy Report template. A clean, colour-customisable template for organising university notes."
+repository = "https://github.com/brebarra/breezy-report"
+keywords = ["report","assignment","university"]
+categories = ["report"]
+exclude = [
+    "imgs/2.png",
+    "imgs/3.png"
+]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"
