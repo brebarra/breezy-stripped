@@ -8,10 +8,6 @@ description = "Stripped-down version of the Breezy Report template. A clean, col
 repository = "https://github.com/brebarra/breezy-stripped"
 keywords = ["report","assignment","university"]
 categories = ["report"]
-exclude = [
-    "imgs/2.png",
-    "imgs/3.png"
-]
 
 [template]
 path = "template"
