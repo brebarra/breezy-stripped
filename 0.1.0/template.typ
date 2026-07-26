@@ -1,4 +1,4 @@
-// breezy-stripped: Stripped version of the Breezy template to remove all excess pages
+// breezy-stripped: Stripped version of the Breezy template to remove all excess pages and add new functions
 // Author: Breanna Barraclough
 // License: MIT-0
  
